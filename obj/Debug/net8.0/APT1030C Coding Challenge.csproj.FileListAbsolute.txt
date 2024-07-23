@@ -1,0 +1,14 @@
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.AssemblyInfoInputs.cache
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.AssemblyInfo.cs
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.csproj.CoreCompileInputs.cache
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\bin\Debug\net8.0\Debug\net8.0\APT1030C Coding Challenge.exe
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\bin\Debug\net8.0\Debug\net8.0\APT1030C Coding Challenge.deps.json
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\bin\Debug\net8.0\Debug\net8.0\APT1030C Coding Challenge.runtimeconfig.json
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\bin\Debug\net8.0\Debug\net8.0\APT1030C Coding Challenge.dll
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\bin\Debug\net8.0\Debug\net8.0\APT1030C Coding Challenge.pdb
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.dll
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\refint\APT1030C Coding Challenge.dll
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.pdb
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\APT1030C Coding Challenge.genruntimeconfig.cache
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0\ref\APT1030C Coding Challenge.dll

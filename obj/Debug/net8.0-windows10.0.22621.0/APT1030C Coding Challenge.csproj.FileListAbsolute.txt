@@ -1,0 +1,4 @@
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0-windows10.0.22621.0\APT1030C Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0-windows10.0.22621.0\APT1030C Coding Challenge.AssemblyInfoInputs.cache
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0-windows10.0.22621.0\APT1030C Coding Challenge.AssemblyInfo.cs
+G:\Dev\Downloads\Softwares\VS Community\C# Practice files\APT1030C Coding Challenge\APT1030C Coding Challenge\obj\Debug\net8.0-windows10.0.22621.0\APT1030C Coding Challenge.csproj.CoreCompileInputs.cache
